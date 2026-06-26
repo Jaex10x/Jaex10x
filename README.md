@@ -39,13 +39,10 @@
 
 ## 🚀 Featured Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=Kasalig-AI)](https://github.com/Jaex10x/Kasalig-AI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=Kasalig-AI)](https://github.com/Jaex10x/Kasalig-AI) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=CyberSecurity_Keylogger)](https://github.com/Jaex10x/CyberSecurity_Keylogger)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=CyberSecurity_Keylogger)](https://github.com/Jaex10x/CyberSecurity_Keylogger)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=Alastro)](https://github.com/Jaex10x/Alastro) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=Simple-Advance-Network-Scanner)](https://github.com/Jaex10x/Simple-Advance-Network-Scanner)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=Alastro)](https://github.com/Jaex10x/Alastro)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaex10x&repo=Simple-Advance-Network-Scanner)](https://github.com/Jaex10x/Simple-Advance-Network-Scanner)
 
 ---
 
